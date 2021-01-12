@@ -26,4 +26,12 @@ cd /myled
 make
 sudo insmod myled.ko
 sudo chmod 666 /dev/myled0
+echo 0 > /dev/myled0 
 ```
+
+# 実行動画
+下記のURLからご覧になれます
+<https://youtu.be/XVD8Ys5L_7Q>
+
+# ライセンス
+GNU General Public License v3.0
