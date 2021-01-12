@@ -27,7 +27,7 @@ LEDのアノードをGPIO25に接続しカソードをGNDに接続
 実行は下記の通りに行います
 ```
 git clone https://github.com/yuu-Tueur/Exercise-1.git
-cd /myled
+cd /Exercise-1
 make
 sudo insmod myled.ko
 sudo chmod 666 /dev/myled0
