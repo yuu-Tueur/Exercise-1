@@ -6,6 +6,11 @@
 
 実行するとモールス信号で”SOS”と点滅します
 
+# 動作環境
+・Raspberry Pi 4
+
+・Ubuntu 20.04.1
+
 # 準備物
 ・Raspberry Pi 4
 
